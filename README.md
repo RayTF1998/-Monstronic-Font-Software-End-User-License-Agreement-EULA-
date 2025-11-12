@@ -1,5 +1,7 @@
 # -Monstronic-Font-Software-End-User-License-Agreement-EULA-
 
+《Monstronic Font Software End User License Agreement (EULA)》
+
 This is a bilingual license agreement between the Licensor and the User. In case of any discrepancy between the English version and the Chinese version, the English version shall prevail.
 
 IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE FONT SOFTWARE. DOWNLOADING, INSTALLING, OR USING THE FONT SOFTWARE INDICATES THAT YOU ACCEPT ALL TERMS OF THIS AGREEMENT. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THE FONT SOFTWARE.
@@ -37,6 +39,8 @@ e) Any project that generates direct or indirect revenue.
 
 Licensor: Yi Huang
 Effective Date: 2025/11/13
+
+
 
 《Monstronic字体软件最终用户许可协议》
 
