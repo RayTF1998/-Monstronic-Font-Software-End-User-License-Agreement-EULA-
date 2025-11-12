@@ -38,6 +38,7 @@ e) Any project that generates direct or indirect revenue.
 7.2 This agreement shall be governed by the laws of the People's Republic of China.
 
 Licensor: Yi Huang
+
 Effective Date: 2025/11/13
 
 
@@ -80,4 +81,5 @@ e) 任何会产生直接或间接收入的项目。
 7.2 本协议受中华人民共和国法律管辖。
 
 许可方：黄逸
+
 协议生效日期：2025年11月13日
